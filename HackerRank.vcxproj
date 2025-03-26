@@ -133,6 +133,18 @@
   <ItemGroup>
     <ClCompile Include="HackerRank.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="easy\birthdayCakeCandles.h" />
+    <ClInclude Include="easy\compareTriplets.h" />
+    <ClInclude Include="easy\diagonalDifference.h" />
+    <ClInclude Include="easy\gradingStudents.h" />
+    <ClInclude Include="easy\miniMaxSum.h" />
+    <ClInclude Include="easy\plusMinus.h" />
+    <ClInclude Include="easy\simpleArraySum.h" />
+    <ClInclude Include="easy\staircase.h" />
+    <ClInclude Include="easy\timeConversion.h" />
+    <ClInclude Include="include.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
